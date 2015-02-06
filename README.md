@@ -12,3 +12,6 @@ Dont program. Use jumpers instead. If you don't have enough time to learn progra
 "I just wanna get basic user control working in RobotC" 
 
 https://www.youtube.com/watch?v=rWaiEHgQNic
+
+"I just want to get the robot moving Forward and Back"
+https://github.com/anjandev/Fleetwood-Park-Vex/blob/master/Vex%20Sky-Rise%20(2015)/Drive_System_Programming_Template.c
