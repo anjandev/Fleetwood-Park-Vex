@@ -8,7 +8,7 @@ RobotC is much better than EasyC. RobotC is more diffucult to learn because it t
 "But I dont have enough time to 'actually learn programming'":
 Dont program. Use jumpers instead. If you don't have enough time to learn programming then you'll probably not have enough time to program autonomous. Use jumpers and follow the vex manual to see where to plug in motors so that the preloaded program recognizes all your motors. 
 
-## Helpful Videos
+## Helpful Videos and Code
 "I just wanna get basic user control working in RobotC" 
 
 https://www.youtube.com/watch?v=rWaiEHgQNic
